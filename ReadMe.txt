@@ -1,3 +1,5 @@
+Версія Unity 6000.0.32f1 підключений пакет Input System та TMP
+
 ### 1. PlayerInput.cs
 
 Реалізує `IPlayerInput` через New Input System.
